@@ -12,9 +12,9 @@ right clicking the tray icon lets you:
   quit
 
 probably wont work on linux, i made this for win10.
- 
- 
- 
- 
- 
+‎ 
+‎ 
+‎ 
+‎ 
+‎ 
 meow
