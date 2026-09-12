@@ -18,5 +18,5 @@ right clicking the tray icon lets you:
              
 probably wont work on linux, i made this for win10             
 
-KNOWN ISSUE: when run on startup is enabled and ur pc starts it will just loop constantly, can be fixed by restarting it        
+KNOWN ISSUE: when run on startup is enabled and ur pc starts it will just loop constantly, can be fixed by restarting it.        
                 currently working on a fix...
